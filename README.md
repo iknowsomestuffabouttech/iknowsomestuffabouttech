@@ -14,7 +14,7 @@
 
 ![anime2](https://github.com/iknowsomestuffabouttech/iknowsomestuffabouttech/assets/139916756/9318c723-6872-4a79-9e15-415a97e7a985)
 
-#### I'm currently working on relearning programming from square one, and in my journey, accumulating the knowledge on how to use newer technologies!
+#### I'm currently working on improving my web development skills with React.JS
 
 ![anime3](https://github.com/iknowsomestuffabouttech/iknowsomestuffabouttech/assets/139916756/e792b268-f60c-4520-ad08-0544050b71b0)
 
@@ -22,7 +22,5 @@ Hey there! I'm Arshan, I'm a developer based in London, currently in senior scho
 My dream is to study computer science at Imperial College London.
 
 I love learning new things and connecting with different people, so if you want to say hi, I'd be happy to chat!
-
-### I'm currently working on relearning the Python language.
 
 ![gif2](https://github.com/iknowsomestuffabouttech/iknowsomestuffabouttech/assets/139916756/7845b6cc-edce-42a4-b380-6ad8fbb340d0)
